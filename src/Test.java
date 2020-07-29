@@ -41,6 +41,7 @@ public class Test {
         double level2 =  1 + 0.0;
         int level =  1 + (int)0.0;
         System.out.println(level);
+        System.out.println("/n");
 
         System.out.println(getStrToken("f02cc14c958095a17d1d2e267be4e9b3"));
         SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd HH:mm");
